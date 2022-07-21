@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋  Soy Jhoan David</h1>
 <h3 align="center">Jhoan David --- Back-end and Fron-end Developer</h3>
 <br>
-<img align="right" src= "https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" alt= "imagen de un programador codificando"/>
 <hr>
+<img align="right" src= "https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" alt= "imagen de un programador codificando"/>
 
 
 - 👩🏻‍💻 **Soy Programador Autodidacta** 
@@ -11,13 +11,11 @@
     -**Angular**
     -**Node**
 
-<hr>
-- 💻 &nbsp;**Proyecto en el que trabajo: [ Adv-adminPro🌱](https://github.com/jhoandvid/angular-adv-adminpro)**
+- 💻 &nbsp;**Proyecto en el que trabajo: [ Adv-adminPro](https://github.com/jhoandvid/angular-adv-adminpro)**
  
 - 🎒 **Estudiante de Ingeniería de Sistemas 8 semestre**
 
 - 😎 **"Soy un apasionado a la música, a la lectura y al deporte"**
-
 
 <h3 align="left">Redes y Contacto:</h3>
 <p align="left">
