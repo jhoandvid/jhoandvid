@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋  Soy Jhoan David</h1>
-<h3 align="center">Jhoandvid --- Back-end and Fron-end Developer</h3>
+<h1 align="center">Hola 👋 Soy Jhoan David</h1>
+<h3 align="center">Jhoandvid => Back-end and Fron-end Developer</h3>
 <br>
 <hr>
 <img align="right" src= "https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" alt= "imagen de un programador codificando"/>
