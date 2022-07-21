@@ -28,7 +28,15 @@
             alt="https://www.facebook.com/jhoandavid.rojasalmario" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languajes y herramientas que he conocido:</h3>
+
+
+
+
+
+
+<h3 align="left">Languajes y herramientas que he conocido:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
@@ -75,12 +83,7 @@
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> <a href="https://dotnet.microsoft.com/apps/xamarin"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
-            alt="xamarin" width="40" height="40" /> </a> </p>
-
-
-
+            alt="typescript" width="40" height="40" /> </a>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
 
