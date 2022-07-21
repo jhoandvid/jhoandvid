@@ -11,12 +11,12 @@
     -**Angular**
     -**Node**
 
-
+<hr>
 - 💻 &nbsp;**Proyecto en el que trabajo: [ Adv-adminPro🌱](https://github.com/jhoandvid/angular-adv-adminpro)**
  
 - 🎒 **Estudiante de Ingeniería de Sistemas 8 semestre**
 
-- 😎 **"Soy un apasionado a la música, a la lectura y a deporte"**
+- 😎 **"Soy un apasionado a la música, a la lectura y al deporte"**
 
 
 <h3 align="left">Redes y Contacto:</h3>
