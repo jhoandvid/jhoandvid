@@ -115,11 +115,7 @@
              <a href="https://www.postgresql.org" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
-             <a href="https://reactnative.dev/" target="_blank"
-        rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
-            height="40" /> </a>
-             <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
+            alt="postgresql" width="40" height="40" /> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
@@ -135,3 +131,6 @@
 
 
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jhoandvid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=es">
+</p>
