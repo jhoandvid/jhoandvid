@@ -20,18 +20,18 @@
 <h3 align="left">Redes y Contacto:</h3>
 <p align="left">
     <a 
-    href="https://linkedin.com/in/https://www.linkedin.com/in/jhoan-david-rojas-almario-66a79511a/"
+    href="https://www.linkedin.com/in/jhoan-david-rojas-almario-66a79511a/"
         target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/jhoan-david-rojas-almario-66a79511a/" height="30" width="40" /></a>
     <a 
-    href="https://fb.com/https://www.facebook.com/jhoandavid.rojasalmario" target="blank"><img align="center"
+    href="https://www.facebook.com/jhoandavid.rojasalmario" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="https://www.facebook.com/jhoandavid.rojasalmario" height="30" width="40" /></a>
 </p>
 
 
-<h3 align="left">Lenguajes, Framework y herramientas que más uso::</h3>
+<h3 align="left">Lenguajes, Framework y herramientas que más uso:</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a> 
@@ -57,7 +57,7 @@
 
 
 
-<h3 align="left">Languajes, Framework y herramientas que he conocido:</h3>
+<h3 align="left">Languajes, Framework y herramientas que he trabajado:</h3>
 <p align="left">
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
