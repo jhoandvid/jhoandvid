@@ -21,9 +21,6 @@
 
 <h3 align="left">Redes y Contacto:</h3>
 <p align="left">
-    <a href="https://dev.to/jhoandvid" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="jhoandvid" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jhoan-david-rojas-almario-66a79511a/"
         target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
