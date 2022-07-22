@@ -7,9 +7,7 @@
 
 - 👩🏻‍💻 **Soy Programador Autodidacta** 
 
-- 🤔**Actualmente estoy aprendiendo:**
-    -**Angular**
-    -**Node**
+- 🤔**Actualmente estoy aprendiendo: Angular y Node**
 
 - 💻 &nbsp;**Proyecto en el que trabajo: [ Adv-adminPro](https://github.com/jhoandvid/angular-adv-adminpro)**
  
