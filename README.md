@@ -9,7 +9,7 @@
 
 - 🤔**Actualmente estoy aprendiendo: Angular y Node**
 
-- 💻 &nbsp;**Proyecto en el que trabajo: [ Adv-adminPro](https://github.com/jhoandvid/angular-adv-adminpro)**
+- 💻 &nbsp;**Proyecto en el que trabajo: [api-store-nestjs](https://github.com/jhoandvid/api-store-nestjs)**
  
 - 🎒 **Estudiante de Ingeniería de Sistemas 8 semestre**
 
