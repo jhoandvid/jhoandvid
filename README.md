@@ -11,9 +11,9 @@
 
 - 💻 &nbsp;**Proyecto en el que trabajo: [api-store-nestjs](https://github.com/jhoandvid/api-store-nestjs)**
  
-- 🎒 **Estudiante de Ingeniería de Sistemas 8 semestre**
+- 🎒 **Estudiante de Ingeniería de Sistemas 9 semestre**
 
-- 😎 **"Soy un apasionado a la música, a la lectura y al deporte"**
+- 😎 **"Soy un apasionado a la programación, a la lectura y al deporte"**
 
 <h3 align="left">Redes y Contacto:</h3>
 <p align="left">
