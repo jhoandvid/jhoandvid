@@ -7,7 +7,7 @@
 
 - 👩🏻‍💻 **Soy Programador Autodidacta** 
 
-- 🤔**Actualmente estoy aprendiendo: Angular y Node**
+- 🤔**Actualmente estoy trabajando: Angular y Nestjs**
 
 - 💻 &nbsp;**Proyecto en el que trabajo: [api-store-nestjs](https://github.com/jhoandvid/api-store-nestjs)**
  
