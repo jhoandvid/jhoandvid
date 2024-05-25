@@ -9,7 +9,7 @@
 
 - 🤔**Actualmente estoy trabajando: Angular, nestjs y .Net**
 
-- 💻 &nbsp;**Proyecto en el que trabajo: [microservice-product-nestjs]("https://github.com/microservice-product-nestjs")**
+- 💻 &nbsp;**Proyecto en el que trabajo: [microservice-product-nestjs](https://github.com/microservice-product-nestjs)**  
  
 - 🎒 **Ingeriero de sistemas con 2 años de experiencia en el desarrollo de software de calidad**
 
