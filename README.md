@@ -9,9 +9,9 @@
 
 - 🤔**Actualmente estoy trabajando: Angular y Nestjs**
 
-- 💻 &nbsp;**Proyecto en el que trabajo: [api-store-nestjs](https://github.com/jhoandvid/api-store-nestjs)**
+- 💻 &nbsp;**Proyecto en el que trabajo: [microservicios-productos-nestjs](https://github.com/microservice-product-nestjs)**
  
-- 🎒 **Estudiante de Ingeniería de Sistemas 9 semestre**
+- 🎒 **Ingeriero de sistemas**
 
 - 😎 **"Soy un apasionado a la programación, a la lectura y al deporte"**
 
