@@ -7,11 +7,11 @@
 
 - 👩🏻‍💻 **Soy Programador Autodidacta** 
 
-- 🤔**Actualmente estoy trabajando: Angular y Nestjs**
+- 🤔**Actualmente estoy trabajando: Angular, nestjs y .Net**
 
-- 💻 &nbsp;**Proyecto en el que trabajo: [api-store-nestjs](https://github.com/jhoandvid/api-store-nestjs)**
+- 💻 &nbsp;**Proyecto en el que trabajo: [microservice-product-nestjs]("https://github.com/microservice-product-nestjs")**
  
-- 🎒 **Estudiante de Ingeniería de Sistemas 9 semestre**
+- 🎒 **Ingeriero de sistemas con 2 años de experiencia en el desarrollo de software de calidad**
 
 - 😎 **"Soy un apasionado a la programación, a la lectura y al deporte"**
 
